@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhiramiTS](https://github.com/AbhiramiTS)
 
-- 💬 Ask me about **React/Redux and Django**
+- 💬 Ask me anything about **React/Redux and Django**
 
 - 📫 How to reach me **abhiramits1@gmail.com**
 

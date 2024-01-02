@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhirami TS
 
-Welcome to my GitHub profile! I'm a passionate Python developer with a keen interest in various domains, including Automation, Web Development and Machine Learning. I am currently on the lookout for exciting opportunities to contribute and grow in the field.
+
 
 
 ## 🌱 Current Focus

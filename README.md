@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub profile! I'm passionate about turning data into actionable insights and using analytics to tell meaningful stories. With a background in [mention relevant field, e.g., statistics, computer science, etc.], I enjoy tackling data challenges and creating visualizations that illuminate trends.
+Welcome to my GitHub profile! I'm passionate about turning data into actionable insights and using analytics to tell meaningful stories. I enjoy tackling data challenges and creating visualizations that illuminate trends.
 
 ## 🛠️ My Toolbox
 

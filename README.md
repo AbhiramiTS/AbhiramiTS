@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 
 ## 🛠️ My Toolbox
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, C++/C, Java
 - **Data Analysis Libraries**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Web Development**: Django, React, HTML5, CSS3, JavaScript, Next.js
 - **Database Management**: MySQL, PostgreSQL
 - **Data Wrangling & Cleaning**: Excel, Python
 - **BI Tools**: Power BI

@@ -2,23 +2,23 @@
 
 
 
-Welcome to my GitHub profile! I'm passionate about turning data into actionable insights and using analytics to tell meaningful stories. I enjoy tackling data challenges and creating visualizations that illuminate trends.
+Welcome to my GitHub! I'm a Python enthusiast with a passion for exploring various domains, from web development with Django to automation and data analysis.
 
 ## 🛠️ My Toolbox
 
 - **Programming Languages**: Python, C++/C, Java
 - **Data Analysis Libraries**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
+- Automation: Python (scripting, task automation)
 - **Web Development**: Django, React, HTML5, CSS3, JavaScript, Next.js
 - **Database Management**: MySQL, PostgreSQL
 - **Data Wrangling & Cleaning**: Excel, Python
-- **BI Tools**: Power BI
 - **Version Control**: Git, GitHub
 
 
 ## 🌱 I’m currently learning:
+- Automating tasks and workflows with Python
 - Machine learning algorithms
-- Enhancing my proficiency in big data technologies like Hadoop and Spark
 
 ## 🤝 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
